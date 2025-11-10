@@ -1,0 +1,10 @@
+{
+    "name": "NIELDEV",
+    "title": "Full Stack Developer",
+    "header":{
+        "home": "Home",
+        "about": "About",
+        "port": "Portfolio",
+        "contact": "Contact"
+    }
+}
